@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10Queues/10Queues.iml" filepath="$PROJECT_DIR$/10Queues/10Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11HashMap/11HashMap.iml" filepath="$PROJECT_DIR$/11HashMap/11HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12BackTracking/12BackTracking.iml" filepath="$PROJECT_DIR$/12BackTracking/12BackTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13Trees/13Trees.iml" filepath="$PROJECT_DIR$/13Trees/13Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1Arrays/1Arrays.iml" filepath="$PROJECT_DIR$/1Arrays/1Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2DArrays/2DArrays.iml" filepath="$PROJECT_DIR$/2DArrays/2DArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3Strings/3Strings.iml" filepath="$PROJECT_DIR$/3Strings/3Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4Recusion/4Recusion.iml" filepath="$PROJECT_DIR$/4Recusion/4Recusion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5Sorting/5Sorting.iml" filepath="$PROJECT_DIR$/5Sorting/5Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6BinarySearch/6BinarySearch.iml" filepath="$PROJECT_DIR$/6BinarySearch/6BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7OOPS/7OOPS.iml" filepath="$PROJECT_DIR$/7OOPS/7OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8LinkedLists/8LinkedLists.iml" filepath="$PROJECT_DIR$/8LinkedLists/8LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9Stacks/9Stacks.iml" filepath="$PROJECT_DIR$/9Stacks/9Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFramework/CollectionFramework.iml" filepath="$PROJECT_DIR$/CollectionFramework/CollectionFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/PepCoding.iml" filepath="$PROJECT_DIR$/PepCoding.iml" />
     </modules>
